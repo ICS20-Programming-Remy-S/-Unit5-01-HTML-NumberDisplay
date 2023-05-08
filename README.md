@@ -1,1 +1,2 @@
 # -Unit5-01-HTML-NumberDisplay
+[![GitHub's Super Linter](https://github.com/<OWNER>/<REPOSITORY>ICS20-Programming-Remy-S/-Unit5-01-HTML-NumberDisplayICS20-Programming-Remy-S/-Unit5-01-HTML-NumberDisplay/actions)
